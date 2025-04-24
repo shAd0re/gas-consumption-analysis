@@ -1,0 +1,727 @@
+year,month,duoarea,area-name,product,product-name,process,process-name,series,series-description,value,units,date,state,year_quarter,month_name
+2014,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),332920.0,MMCF,2014-01-01,TX,2014Q1,January
+2014,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),353.0,MMCF,2014-01-01,TX,2014Q1,January
+2014,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),107671.0,MMCF,2014-01-01,TX,2014Q1,January
+2014,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),140888.0,MMCF,2014-01-01,TX,2014Q1,January
+2014,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),27526.0,MMCF,2014-01-01,TX,2014Q1,January
+2014,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),56481.0,MMCF,2014-01-01,TX,2014Q1,January
+2014,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),319.0,MMCF,2014-02-01,TX,2014Q1,February
+2014,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),127448.0,MMCF,2014-02-01,TX,2014Q1,February
+2014,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),45335.0,MMCF,2014-02-01,TX,2014Q1,February
+2014,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),94715.0,MMCF,2014-02-01,TX,2014Q1,February
+2014,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),24160.0,MMCF,2014-02-01,TX,2014Q1,February
+2014,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),291978.0,MMCF,2014-02-01,TX,2014Q1,February
+2014,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),280010.0,MMCF,2014-03-01,TX,2014Q1,March
+2014,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),30199.0,MMCF,2014-03-01,TX,2014Q1,March
+2014,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),19205.0,MMCF,2014-03-01,TX,2014Q1,March
+2014,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),135561.0,MMCF,2014-03-01,TX,2014Q1,March
+2014,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),353.0,MMCF,2014-03-01,TX,2014Q1,March
+2014,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),94692.0,MMCF,2014-03-01,TX,2014Q1,March
+2014,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),15627.0,MMCF,2014-04-01,TX,2014Q2,April
+2014,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),99834.0,MMCF,2014-04-01,TX,2014Q2,April
+2014,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),260005.0,MMCF,2014-04-01,TX,2014Q2,April
+2014,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),129422.0,MMCF,2014-04-01,TX,2014Q2,April
+2014,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),342.0,MMCF,2014-04-01,TX,2014Q2,April
+2014,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),14780.0,MMCF,2014-04-01,TX,2014Q2,April
+2014,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11280.0,MMCF,2014-05-01,TX,2014Q2,May
+2014,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),133904.0,MMCF,2014-05-01,TX,2014Q2,May
+2014,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),111872.0,MMCF,2014-05-01,TX,2014Q2,May
+2014,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),8855.0,MMCF,2014-05-01,TX,2014Q2,May
+2014,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),353.0,MMCF,2014-05-01,TX,2014Q2,May
+2014,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),266265.0,MMCF,2014-05-01,TX,2014Q2,May
+2014,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),342.0,MMCF,2014-06-01,TX,2014Q2,June
+2014,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10733.0,MMCF,2014-06-01,TX,2014Q2,June
+2014,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),131526.0,MMCF,2014-06-01,TX,2014Q2,June
+2014,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),279037.0,MMCF,2014-06-01,TX,2014Q2,June
+2014,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),129458.0,MMCF,2014-06-01,TX,2014Q2,June
+2014,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6977.0,MMCF,2014-06-01,TX,2014Q2,June
+2014,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),151814.0,MMCF,2014-07-01,TX,2014Q3,July
+2014,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),353.0,MMCF,2014-07-01,TX,2014Q3,July
+2014,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10743.0,MMCF,2014-07-01,TX,2014Q3,July
+2014,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),135899.0,MMCF,2014-07-01,TX,2014Q3,July
+2014,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6188.0,MMCF,2014-07-01,TX,2014Q3,July
+2014,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),304999.0,MMCF,2014-07-01,TX,2014Q3,July
+2014,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10099.0,MMCF,2014-08-01,TX,2014Q3,August
+2014,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),171985.0,MMCF,2014-08-01,TX,2014Q3,August
+2014,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),322822.0,MMCF,2014-08-01,TX,2014Q3,August
+2014,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5661.0,MMCF,2014-08-01,TX,2014Q3,August
+2014,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),353.0,MMCF,2014-08-01,TX,2014Q3,August
+2014,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),134723.0,MMCF,2014-08-01,TX,2014Q3,August
+2014,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5951.0,MMCF,2014-09-01,TX,2014Q3,September
+2014,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),135001.0,MMCF,2014-09-01,TX,2014Q3,September
+2014,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),278723.0,MMCF,2014-09-01,TX,2014Q3,September
+2014,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),342.0,MMCF,2014-09-01,TX,2014Q3,September
+2014,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10330.0,MMCF,2014-09-01,TX,2014Q3,September
+2014,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),127100.0,MMCF,2014-09-01,TX,2014Q3,September
+2014,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),353.0,MMCF,2014-10-01,TX,2014Q4,October
+2014,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),259428.0,MMCF,2014-10-01,TX,2014Q4,October
+2014,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6881.0,MMCF,2014-10-01,TX,2014Q4,October
+2014,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11298.0,MMCF,2014-10-01,TX,2014Q4,October
+2014,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),122863.0,MMCF,2014-10-01,TX,2014Q4,October
+2014,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),118033.0,MMCF,2014-10-01,TX,2014Q4,October
+2014,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),14388.0,MMCF,2014-11-01,TX,2014Q4,November
+2014,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),100467.0,MMCF,2014-11-01,TX,2014Q4,November
+2014,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),342.0,MMCF,2014-11-01,TX,2014Q4,November
+2014,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),131090.0,MMCF,2014-11-01,TX,2014Q4,November
+2014,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),14635.0,MMCF,2014-11-01,TX,2014Q4,November
+2014,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),260922.0,MMCF,2014-11-01,TX,2014Q4,November
+2014,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),297357.0,MMCF,2014-12-01,TX,2014Q4,December
+2014,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),137385.0,MMCF,2014-12-01,TX,2014Q4,December
+2014,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),31730.0,MMCF,2014-12-01,TX,2014Q4,December
+2014,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),353.0,MMCF,2014-12-01,TX,2014Q4,December
+2014,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),20365.0,MMCF,2014-12-01,TX,2014Q4,December
+2014,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),107524.0,MMCF,2014-12-01,TX,2014Q4,December
+2015,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),27388.0,MMCF,2015-01-01,TX,2015Q1,January
+2015,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),126489.0,MMCF,2015-01-01,TX,2015Q1,January
+2015,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),348119.0,MMCF,2015-01-01,TX,2015Q1,January
+2015,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),53622.0,MMCF,2015-01-01,TX,2015Q1,January
+2015,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),373.0,MMCF,2015-01-01,TX,2015Q1,January
+2015,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),140247.0,MMCF,2015-01-01,TX,2015Q1,January
+2015,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),21751.0,MMCF,2015-02-01,TX,2015Q1,February
+2015,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),125336.0,MMCF,2015-02-01,TX,2015Q1,February
+2015,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),36891.0,MMCF,2015-02-01,TX,2015Q1,February
+2015,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),113522.0,MMCF,2015-02-01,TX,2015Q1,February
+2015,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),337.0,MMCF,2015-02-01,TX,2015Q1,February
+2015,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),297837.0,MMCF,2015-02-01,TX,2015Q1,February
+2015,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),133061.0,MMCF,2015-03-01,TX,2015Q1,March
+2015,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),20419.0,MMCF,2015-03-01,TX,2015Q1,March
+2015,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),34514.0,MMCF,2015-03-01,TX,2015Q1,March
+2015,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),127251.0,MMCF,2015-03-01,TX,2015Q1,March
+2015,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),373.0,MMCF,2015-03-01,TX,2015Q1,March
+2015,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),315617.0,MMCF,2015-03-01,TX,2015Q1,March
+2015,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),129764.0,MMCF,2015-04-01,TX,2015Q2,April
+2015,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),10986.0,MMCF,2015-04-01,TX,2015Q2,April
+2015,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),271023.0,MMCF,2015-04-01,TX,2015Q2,April
+2015,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),361.0,MMCF,2015-04-01,TX,2015Q2,April
+2015,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12629.0,MMCF,2015-04-01,TX,2015Q2,April
+2015,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),117283.0,MMCF,2015-04-01,TX,2015Q2,April
+2015,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),373.0,MMCF,2015-05-01,TX,2015Q2,May
+2015,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),274677.0,MMCF,2015-05-01,TX,2015Q2,May
+2015,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10214.0,MMCF,2015-05-01,TX,2015Q2,May
+2015,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),122352.0,MMCF,2015-05-01,TX,2015Q2,May
+2015,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),134880.0,MMCF,2015-05-01,TX,2015Q2,May
+2015,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6857.0,MMCF,2015-05-01,TX,2015Q2,May
+2015,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),145182.0,MMCF,2015-06-01,TX,2015Q2,June
+2015,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),130022.0,MMCF,2015-06-01,TX,2015Q2,June
+2015,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6360.0,MMCF,2015-06-01,TX,2015Q2,June
+2015,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10620.0,MMCF,2015-06-01,TX,2015Q2,June
+2015,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),361.0,MMCF,2015-06-01,TX,2015Q2,June
+2015,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),292544.0,MMCF,2015-06-01,TX,2015Q2,June
+2015,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),179372.0,MMCF,2015-07-01,TX,2015Q3,July
+2015,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),133700.0,MMCF,2015-07-01,TX,2015Q3,July
+2015,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),373.0,MMCF,2015-07-01,TX,2015Q3,July
+2015,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10649.0,MMCF,2015-07-01,TX,2015Q3,July
+2015,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6479.0,MMCF,2015-07-01,TX,2015Q3,July
+2015,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),330573.0,MMCF,2015-07-01,TX,2015Q3,July
+2015,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),135975.0,MMCF,2015-08-01,TX,2015Q3,August
+2015,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),9420.0,MMCF,2015-08-01,TX,2015Q3,August
+2015,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),183710.0,MMCF,2015-08-01,TX,2015Q3,August
+2015,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),4875.0,MMCF,2015-08-01,TX,2015Q3,August
+2015,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),373.0,MMCF,2015-08-01,TX,2015Q3,August
+2015,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),334353.0,MMCF,2015-08-01,TX,2015Q3,August
+2015,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),9633.0,MMCF,2015-09-01,TX,2015Q3,September
+2015,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),292889.0,MMCF,2015-09-01,TX,2015Q3,September
+2015,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5401.0,MMCF,2015-09-01,TX,2015Q3,September
+2015,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),361.0,MMCF,2015-09-01,TX,2015Q3,September
+2015,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),128074.0,MMCF,2015-09-01,TX,2015Q3,September
+2015,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),149420.0,MMCF,2015-09-01,TX,2015Q3,September
+2015,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6334.0,MMCF,2015-10-01,TX,2015Q4,October
+2015,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),278831.0,MMCF,2015-10-01,TX,2015Q4,October
+2015,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),132045.0,MMCF,2015-10-01,TX,2015Q4,October
+2015,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),373.0,MMCF,2015-10-01,TX,2015Q4,October
+2015,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),129548.0,MMCF,2015-10-01,TX,2015Q4,October
+2015,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10532.0,MMCF,2015-10-01,TX,2015Q4,October
+2015,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),137582.0,MMCF,2015-11-01,TX,2015Q4,November
+2015,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),361.0,MMCF,2015-11-01,TX,2015Q4,November
+2015,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),108509.0,MMCF,2015-11-01,TX,2015Q4,November
+2015,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),11027.0,MMCF,2015-11-01,TX,2015Q4,November
+2015,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),13714.0,MMCF,2015-11-01,TX,2015Q4,November
+2015,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),271193.0,MMCF,2015-11-01,TX,2015Q4,November
+2015,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),313833.0,MMCF,2015-12-01,TX,2015Q4,December
+2015,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),18914.0,MMCF,2015-12-01,TX,2015Q4,December
+2015,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),121199.0,MMCF,2015-12-01,TX,2015Q4,December
+2015,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),373.0,MMCF,2015-12-01,TX,2015Q4,December
+2015,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),28033.0,MMCF,2015-12-01,TX,2015Q4,December
+2015,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),145313.0,MMCF,2015-12-01,TX,2015Q4,December
+2016,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),122753.0,MMCF,2016-01-01,TX,2016Q1,January
+2016,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),142240.0,MMCF,2016-01-01,TX,2016Q1,January
+2016,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),330283.0,MMCF,2016-01-01,TX,2016Q1,January
+2016,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),41423.0,MMCF,2016-01-01,TX,2016Q1,January
+2016,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),328.0,MMCF,2016-01-01,TX,2016Q1,January
+2016,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),23538.0,MMCF,2016-01-01,TX,2016Q1,January
+2016,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),18764.0,MMCF,2016-02-01,TX,2016Q1,February
+2016,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),30067.0,MMCF,2016-02-01,TX,2016Q1,February
+2016,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),285885.0,MMCF,2016-02-01,TX,2016Q1,February
+2016,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),307.0,MMCF,2016-02-01,TX,2016Q1,February
+2016,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),131520.0,MMCF,2016-02-01,TX,2016Q1,February
+2016,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),105227.0,MMCF,2016-02-01,TX,2016Q1,February
+2016,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),16632.0,MMCF,2016-03-01,TX,2016Q1,March
+2016,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),289057.0,MMCF,2016-03-01,TX,2016Q1,March
+2016,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),137784.0,MMCF,2016-03-01,TX,2016Q1,March
+2016,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),328.0,MMCF,2016-03-01,TX,2016Q1,March
+2016,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),119813.0,MMCF,2016-03-01,TX,2016Q1,March
+2016,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),14500.0,MMCF,2016-03-01,TX,2016Q1,March
+2016,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),269291.0,MMCF,2016-04-01,TX,2016Q2,April
+2016,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),126871.0,MMCF,2016-04-01,TX,2016Q2,April
+2016,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12955.0,MMCF,2016-04-01,TX,2016Q2,April
+2016,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),318.0,MMCF,2016-04-01,TX,2016Q2,April
+2016,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),117564.0,MMCF,2016-04-01,TX,2016Q2,April
+2016,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),11584.0,MMCF,2016-04-01,TX,2016Q2,April
+2016,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),328.0,MMCF,2016-05-01,TX,2016Q2,May
+2016,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7373.0,MMCF,2016-05-01,TX,2016Q2,May
+2016,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10404.0,MMCF,2016-05-01,TX,2016Q2,May
+2016,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),132444.0,MMCF,2016-05-01,TX,2016Q2,May
+2016,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),279180.0,MMCF,2016-05-01,TX,2016Q2,May
+2016,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),128630.0,MMCF,2016-05-01,TX,2016Q2,May
+2016,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),151466.0,MMCF,2016-06-01,TX,2016Q2,June
+2016,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11194.0,MMCF,2016-06-01,TX,2016Q2,June
+2016,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7078.0,MMCF,2016-06-01,TX,2016Q2,June
+2016,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),128351.0,MMCF,2016-06-01,TX,2016Q2,June
+2016,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),298407.0,MMCF,2016-06-01,TX,2016Q2,June
+2016,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),318.0,MMCF,2016-06-01,TX,2016Q2,June
+2016,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),170485.0,MMCF,2016-07-01,TX,2016Q3,July
+2016,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),9940.0,MMCF,2016-07-01,TX,2016Q3,July
+2016,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),328.0,MMCF,2016-07-01,TX,2016Q3,July
+2016,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),142462.0,MMCF,2016-07-01,TX,2016Q3,July
+2016,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),328972.0,MMCF,2016-07-01,TX,2016Q3,July
+2016,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5756.0,MMCF,2016-07-01,TX,2016Q3,July
+2016,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),174678.0,MMCF,2016-08-01,TX,2016Q3,August
+2016,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),143182.0,MMCF,2016-08-01,TX,2016Q3,August
+2016,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),333459.0,MMCF,2016-08-01,TX,2016Q3,August
+2016,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5380.0,MMCF,2016-08-01,TX,2016Q3,August
+2016,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),9890.0,MMCF,2016-08-01,TX,2016Q3,August
+2016,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),328.0,MMCF,2016-08-01,TX,2016Q3,August
+2016,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),9892.0,MMCF,2016-09-01,TX,2016Q3,September
+2016,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5353.0,MMCF,2016-09-01,TX,2016Q3,September
+2016,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),136898.0,MMCF,2016-09-01,TX,2016Q3,September
+2016,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),318.0,MMCF,2016-09-01,TX,2016Q3,September
+2016,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),144410.0,MMCF,2016-09-01,TX,2016Q3,September
+2016,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),296870.0,MMCF,2016-09-01,TX,2016Q3,September
+2016,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),266076.0,MMCF,2016-10-01,TX,2016Q4,October
+2016,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),328.0,MMCF,2016-10-01,TX,2016Q4,October
+2016,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),111464.0,MMCF,2016-10-01,TX,2016Q4,October
+2016,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),137229.0,MMCF,2016-10-01,TX,2016Q4,October
+2016,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10547.0,MMCF,2016-10-01,TX,2016Q4,October
+2016,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6508.0,MMCF,2016-10-01,TX,2016Q4,October
+2016,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),94746.0,MMCF,2016-11-01,TX,2016Q4,November
+2016,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),140148.0,MMCF,2016-11-01,TX,2016Q4,November
+2016,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12834.0,MMCF,2016-11-01,TX,2016Q4,November
+2016,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),318.0,MMCF,2016-11-01,TX,2016Q4,November
+2016,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),257158.0,MMCF,2016-11-01,TX,2016Q4,November
+2016,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),9112.0,MMCF,2016-11-01,TX,2016Q4,November
+2016,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),154444.0,MMCF,2016-12-01,TX,2016Q4,December
+2016,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),29065.0,MMCF,2016-12-01,TX,2016Q4,December
+2016,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),19848.0,MMCF,2016-12-01,TX,2016Q4,December
+2016,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),328.0,MMCF,2016-12-01,TX,2016Q4,December
+2016,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),89011.0,MMCF,2016-12-01,TX,2016Q4,December
+2016,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),292696.0,MMCF,2016-12-01,TX,2016Q4,December
+2017,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),39036.0,MMCF,2017-01-01,TX,2017Q1,January
+2017,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),85861.0,MMCF,2017-01-01,TX,2017Q1,January
+2017,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),294170.0,MMCF,2017-01-01,TX,2017Q1,January
+2017,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),145245.0,MMCF,2017-01-01,TX,2017Q1,January
+2017,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),23872.0,MMCF,2017-01-01,TX,2017Q1,January
+2017,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),156.0,MMCF,2017-01-01,TX,2017Q1,January
+2017,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),141.0,MMCF,2017-02-01,TX,2017Q1,February
+2017,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),74362.0,MMCF,2017-02-01,TX,2017Q1,February
+2017,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),22127.0,MMCF,2017-02-01,TX,2017Q1,February
+2017,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),245170.0,MMCF,2017-02-01,TX,2017Q1,February
+2017,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),16442.0,MMCF,2017-02-01,TX,2017Q1,February
+2017,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),132098.0,MMCF,2017-02-01,TX,2017Q1,February
+2017,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),156.0,MMCF,2017-03-01,TX,2017Q1,March
+2017,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),262085.0,MMCF,2017-03-01,TX,2017Q1,March
+2017,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),91146.0,MMCF,2017-03-01,TX,2017Q1,March
+2017,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),14591.0,MMCF,2017-03-01,TX,2017Q1,March
+2017,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),140169.0,MMCF,2017-03-01,TX,2017Q1,March
+2017,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),16023.0,MMCF,2017-03-01,TX,2017Q1,March
+2017,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12118.0,MMCF,2017-04-01,TX,2017Q2,April
+2017,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),246920.0,MMCF,2017-04-01,TX,2017Q2,April
+2017,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),131686.0,MMCF,2017-04-01,TX,2017Q2,April
+2017,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),9413.0,MMCF,2017-04-01,TX,2017Q2,April
+2017,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),93553.0,MMCF,2017-04-01,TX,2017Q2,April
+2017,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),151.0,MMCF,2017-04-01,TX,2017Q2,April
+2017,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),109734.0,MMCF,2017-05-01,TX,2017Q2,May
+2017,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11196.0,MMCF,2017-05-01,TX,2017Q2,May
+2017,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),132867.0,MMCF,2017-05-01,TX,2017Q2,May
+2017,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7747.0,MMCF,2017-05-01,TX,2017Q2,May
+2017,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),156.0,MMCF,2017-05-01,TX,2017Q2,May
+2017,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),261700.0,MMCF,2017-05-01,TX,2017Q2,May
+2017,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),151.0,MMCF,2017-06-01,TX,2017Q2,June
+2017,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5821.0,MMCF,2017-06-01,TX,2017Q2,June
+2017,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),145864.0,MMCF,2017-06-01,TX,2017Q2,June
+2017,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),301718.0,MMCF,2017-06-01,TX,2017Q2,June
+2017,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10164.0,MMCF,2017-06-01,TX,2017Q2,June
+2017,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),139718.0,MMCF,2017-06-01,TX,2017Q2,June
+2017,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),342023.0,MMCF,2017-07-01,TX,2017Q3,July
+2017,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),182748.0,MMCF,2017-07-01,TX,2017Q3,July
+2017,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),142703.0,MMCF,2017-07-01,TX,2017Q3,July
+2017,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6000.0,MMCF,2017-07-01,TX,2017Q3,July
+2017,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10416.0,MMCF,2017-07-01,TX,2017Q3,July
+2017,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),156.0,MMCF,2017-07-01,TX,2017Q3,July
+2017,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),156.0,MMCF,2017-08-01,TX,2017Q3,August
+2017,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),166870.0,MMCF,2017-08-01,TX,2017Q3,August
+2017,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5436.0,MMCF,2017-08-01,TX,2017Q3,August
+2017,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),322888.0,MMCF,2017-08-01,TX,2017Q3,August
+2017,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10378.0,MMCF,2017-08-01,TX,2017Q3,August
+2017,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),140049.0,MMCF,2017-08-01,TX,2017Q3,August
+2017,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),268180.0,MMCF,2017-09-01,TX,2017Q3,September
+2017,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),151.0,MMCF,2017-09-01,TX,2017Q3,September
+2017,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),121368.0,MMCF,2017-09-01,TX,2017Q3,September
+2017,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5885.0,MMCF,2017-09-01,TX,2017Q3,September
+2017,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),130515.0,MMCF,2017-09-01,TX,2017Q3,September
+2017,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10261.0,MMCF,2017-09-01,TX,2017Q3,September
+2017,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),142070.0,MMCF,2017-10-01,TX,2017Q4,October
+2017,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),103598.0,MMCF,2017-10-01,TX,2017Q4,October
+2017,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),156.0,MMCF,2017-10-01,TX,2017Q4,October
+2017,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),265716.0,MMCF,2017-10-01,TX,2017Q4,October
+2017,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7769.0,MMCF,2017-10-01,TX,2017Q4,October
+2017,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12123.0,MMCF,2017-10-01,TX,2017Q4,October
+2017,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),84931.0,MMCF,2017-11-01,TX,2017Q4,November
+2017,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),13231.0,MMCF,2017-11-01,TX,2017Q4,November
+2017,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),13914.0,MMCF,2017-11-01,TX,2017Q4,November
+2017,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),258233.0,MMCF,2017-11-01,TX,2017Q4,November
+2017,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),146006.0,MMCF,2017-11-01,TX,2017Q4,November
+2017,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),151.0,MMCF,2017-11-01,TX,2017Q4,November
+2017,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),310944.0,MMCF,2017-12-01,TX,2017Q4,December
+2017,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),155380.0,MMCF,2017-12-01,TX,2017Q4,December
+2017,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),25659.0,MMCF,2017-12-01,TX,2017Q4,December
+2017,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),156.0,MMCF,2017-12-01,TX,2017Q4,December
+2017,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),19309.0,MMCF,2017-12-01,TX,2017Q4,December
+2017,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),110440.0,MMCF,2017-12-01,TX,2017Q4,December
+2018,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),32926.0,MMCF,2018-01-01,TX,2018Q1,January
+2018,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),57953.0,MMCF,2018-01-01,TX,2018Q1,January
+2018,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),161055.0,MMCF,2018-01-01,TX,2018Q1,January
+2018,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),375409.0,MMCF,2018-01-01,TX,2018Q1,January
+2018,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),152.0,MMCF,2018-01-01,TX,2018Q1,January
+2018,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),123323.0,MMCF,2018-01-01,TX,2018Q1,January
+2018,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),303251.0,MMCF,2018-02-01,TX,2018Q1,February
+2018,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),138219.0,MMCF,2018-02-01,TX,2018Q1,February
+2018,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),137.0,MMCF,2018-02-01,TX,2018Q1,February
+2018,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),34748.0,MMCF,2018-02-01,TX,2018Q1,February
+2018,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),24249.0,MMCF,2018-02-01,TX,2018Q1,February
+2018,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),105899.0,MMCF,2018-02-01,TX,2018Q1,February
+2018,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),108287.0,MMCF,2018-03-01,TX,2018Q1,March
+2018,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),24585.0,MMCF,2018-03-01,TX,2018Q1,March
+2018,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),152.0,MMCF,2018-03-01,TX,2018Q1,March
+2018,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),22247.0,MMCF,2018-03-01,TX,2018Q1,March
+2018,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),308880.0,MMCF,2018-03-01,TX,2018Q1,March
+2018,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),153610.0,MMCF,2018-03-01,TX,2018Q1,March
+2018,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),147.0,MMCF,2018-04-01,TX,2018Q2,April
+2018,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),101037.0,MMCF,2018-04-01,TX,2018Q2,April
+2018,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),281514.0,MMCF,2018-04-01,TX,2018Q2,April
+2018,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),151073.0,MMCF,2018-04-01,TX,2018Q2,April
+2018,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),15773.0,MMCF,2018-04-01,TX,2018Q2,April
+2018,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),13484.0,MMCF,2018-04-01,TX,2018Q2,April
+2018,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),150012.0,MMCF,2018-05-01,TX,2018Q2,May
+2018,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),154422.0,MMCF,2018-05-01,TX,2018Q2,May
+2018,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),13464.0,MMCF,2018-05-01,TX,2018Q2,May
+2018,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),326264.0,MMCF,2018-05-01,TX,2018Q2,May
+2018,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),8214.0,MMCF,2018-05-01,TX,2018Q2,May
+2018,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),152.0,MMCF,2018-05-01,TX,2018Q2,May
+2018,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),326543.0,MMCF,2018-06-01,TX,2018Q2,June
+2018,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),160952.0,MMCF,2018-06-01,TX,2018Q2,June
+2018,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),147.0,MMCF,2018-06-01,TX,2018Q2,June
+2018,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5448.0,MMCF,2018-06-01,TX,2018Q2,June
+2018,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10960.0,MMCF,2018-06-01,TX,2018Q2,June
+2018,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),149036.0,MMCF,2018-06-01,TX,2018Q2,June
+2018,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),208167.0,MMCF,2018-07-01,TX,2018Q3,July
+2018,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10399.0,MMCF,2018-07-01,TX,2018Q3,July
+2018,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),157290.0,MMCF,2018-07-01,TX,2018Q3,July
+2018,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),152.0,MMCF,2018-07-01,TX,2018Q3,July
+2018,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),380917.0,MMCF,2018-07-01,TX,2018Q3,July
+2018,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),4910.0,MMCF,2018-07-01,TX,2018Q3,July
+2018,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),4989.0,MMCF,2018-08-01,TX,2018Q3,August
+2018,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),189239.0,MMCF,2018-08-01,TX,2018Q3,August
+2018,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),360546.0,MMCF,2018-08-01,TX,2018Q3,August
+2018,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11509.0,MMCF,2018-08-01,TX,2018Q3,August
+2018,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),154658.0,MMCF,2018-08-01,TX,2018Q3,August
+2018,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),152.0,MMCF,2018-08-01,TX,2018Q3,August
+2018,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11513.0,MMCF,2018-09-01,TX,2018Q3,September
+2018,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),318178.0,MMCF,2018-09-01,TX,2018Q3,September
+2018,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5132.0,MMCF,2018-09-01,TX,2018Q3,September
+2018,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),147.0,MMCF,2018-09-01,TX,2018Q3,September
+2018,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),151010.0,MMCF,2018-09-01,TX,2018Q3,September
+2018,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),150376.0,MMCF,2018-09-01,TX,2018Q3,September
+2018,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),297020.0,MMCF,2018-10-01,TX,2018Q4,October
+2018,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),152.0,MMCF,2018-10-01,TX,2018Q4,October
+2018,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),13865.0,MMCF,2018-10-01,TX,2018Q4,October
+2018,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),126829.0,MMCF,2018-10-01,TX,2018Q4,October
+2018,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),148106.0,MMCF,2018-10-01,TX,2018Q4,October
+2018,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),8068.0,MMCF,2018-10-01,TX,2018Q4,October
+2018,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),147.0,MMCF,2018-11-01,TX,2018Q4,November
+2018,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),156425.0,MMCF,2018-11-01,TX,2018Q4,November
+2018,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),23135.0,MMCF,2018-11-01,TX,2018Q4,November
+2018,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),22097.0,MMCF,2018-11-01,TX,2018Q4,November
+2018,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),105850.0,MMCF,2018-11-01,TX,2018Q4,November
+2018,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),307654.0,MMCF,2018-11-01,TX,2018Q4,November
+2018,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),25171.0,MMCF,2018-12-01,TX,2018Q4,December
+2018,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),152.0,MMCF,2018-12-01,TX,2018Q4,December
+2018,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),113249.0,MMCF,2018-12-01,TX,2018Q4,December
+2018,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),339066.0,MMCF,2018-12-01,TX,2018Q4,December
+2018,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),164134.0,MMCF,2018-12-01,TX,2018Q4,December
+2018,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),36361.0,MMCF,2018-12-01,TX,2018Q4,December
+2019,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),45207.0,MMCF,2019-01-01,TX,2019Q1,January
+2019,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),26819.0,MMCF,2019-01-01,TX,2019Q1,January
+2019,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),128961.0,MMCF,2019-01-01,TX,2019Q1,January
+2019,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),365667.0,MMCF,2019-01-01,TX,2019Q1,January
+2019,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),135.0,MMCF,2019-01-01,TX,2019Q1,January
+2019,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),164545.0,MMCF,2019-01-01,TX,2019Q1,January
+2019,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),24045.0,MMCF,2019-02-01,TX,2019Q1,February
+2019,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),104462.0,MMCF,2019-02-01,TX,2019Q1,February
+2019,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),38169.0,MMCF,2019-02-01,TX,2019Q1,February
+2019,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),146425.0,MMCF,2019-02-01,TX,2019Q1,February
+2019,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),122.0,MMCF,2019-02-01,TX,2019Q1,February
+2019,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),313223.0,MMCF,2019-02-01,TX,2019Q1,February
+2019,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),22434.0,MMCF,2019-03-01,TX,2019Q1,March
+2019,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),135.0,MMCF,2019-03-01,TX,2019Q1,March
+2019,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),326480.0,MMCF,2019-03-01,TX,2019Q1,March
+2019,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),116536.0,MMCF,2019-03-01,TX,2019Q1,March
+2019,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),33328.0,MMCF,2019-03-01,TX,2019Q1,March
+2019,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),154046.0,MMCF,2019-03-01,TX,2019Q1,March
+2019,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),143845.0,MMCF,2019-04-01,TX,2019Q2,April
+2019,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),16434.0,MMCF,2019-04-01,TX,2019Q2,April
+2019,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),105065.0,MMCF,2019-04-01,TX,2019Q2,April
+2019,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),282466.0,MMCF,2019-04-01,TX,2019Q2,April
+2019,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),16991.0,MMCF,2019-04-01,TX,2019Q2,April
+2019,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),130.0,MMCF,2019-04-01,TX,2019Q2,April
+2019,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),145840.0,MMCF,2019-05-01,TX,2019Q2,May
+2019,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7913.0,MMCF,2019-05-01,TX,2019Q2,May
+2019,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),135.0,MMCF,2019-05-01,TX,2019Q2,May
+2019,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),145051.0,MMCF,2019-05-01,TX,2019Q2,May
+2019,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12138.0,MMCF,2019-05-01,TX,2019Q2,May
+2019,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),311077.0,MMCF,2019-05-01,TX,2019Q2,May
+2019,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),171990.0,MMCF,2019-06-01,TX,2019Q2,June
+2019,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12154.0,MMCF,2019-06-01,TX,2019Q2,June
+2019,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),130.0,MMCF,2019-06-01,TX,2019Q2,June
+2019,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6614.0,MMCF,2019-06-01,TX,2019Q2,June
+2019,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),333719.0,MMCF,2019-06-01,TX,2019Q2,June
+2019,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),142830.0,MMCF,2019-06-01,TX,2019Q2,June
+2019,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),201489.0,MMCF,2019-07-01,TX,2019Q3,July
+2019,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10964.0,MMCF,2019-07-01,TX,2019Q3,July
+2019,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6209.0,MMCF,2019-07-01,TX,2019Q3,July
+2019,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),366865.0,MMCF,2019-07-01,TX,2019Q3,July
+2019,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),135.0,MMCF,2019-07-01,TX,2019Q3,July
+2019,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),148069.0,MMCF,2019-07-01,TX,2019Q3,July
+2019,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10540.0,MMCF,2019-08-01,TX,2019Q3,August
+2019,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),395153.0,MMCF,2019-08-01,TX,2019Q3,August
+2019,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),135.0,MMCF,2019-08-01,TX,2019Q3,August
+2019,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),149207.0,MMCF,2019-08-01,TX,2019Q3,August
+2019,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),230057.0,MMCF,2019-08-01,TX,2019Q3,August
+2019,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5214.0,MMCF,2019-08-01,TX,2019Q3,August
+2019,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),140135.0,MMCF,2019-09-01,TX,2019Q3,September
+2019,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5045.0,MMCF,2019-09-01,TX,2019Q3,September
+2019,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),345113.0,MMCF,2019-09-01,TX,2019Q3,September
+2019,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),130.0,MMCF,2019-09-01,TX,2019Q3,September
+2019,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),189553.0,MMCF,2019-09-01,TX,2019Q3,September
+2019,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10249.0,MMCF,2019-09-01,TX,2019Q3,September
+2019,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),135.0,MMCF,2019-10-01,TX,2019Q4,October
+2019,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7328.0,MMCF,2019-10-01,TX,2019Q4,October
+2019,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),141418.0,MMCF,2019-10-01,TX,2019Q4,October
+2019,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11985.0,MMCF,2019-10-01,TX,2019Q4,October
+2019,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),306062.0,MMCF,2019-10-01,TX,2019Q4,October
+2019,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),145196.0,MMCF,2019-10-01,TX,2019Q4,October
+2019,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),152645.0,MMCF,2019-11-01,TX,2019Q4,November
+2019,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),130.0,MMCF,2019-11-01,TX,2019Q4,November
+2019,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),120458.0,MMCF,2019-11-01,TX,2019Q4,November
+2019,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),316328.0,MMCF,2019-11-01,TX,2019Q4,November
+2019,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),24295.0,MMCF,2019-11-01,TX,2019Q4,November
+2019,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),18799.0,MMCF,2019-11-01,TX,2019Q4,November
+2019,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),352155.0,MMCF,2019-12-01,TX,2019Q4,December
+2019,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),167322.0,MMCF,2019-12-01,TX,2019Q4,December
+2019,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),135.0,MMCF,2019-12-01,TX,2019Q4,December
+2019,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),21498.0,MMCF,2019-12-01,TX,2019Q4,December
+2019,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),31830.0,MMCF,2019-12-01,TX,2019Q4,December
+2019,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),131370.0,MMCF,2019-12-01,TX,2019Q4,December
+2020,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),23396.0,MMCF,2020-01-01,TX,2020Q1,January
+2020,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),94.0,MMCF,2020-01-01,TX,2020Q1,January
+2020,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163577.0,MMCF,2020-01-01,TX,2020Q1,January
+2020,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),129783.0,MMCF,2020-01-01,TX,2020Q1,January
+2020,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),355491.0,MMCF,2020-01-01,TX,2020Q1,January
+2020,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),38641.0,MMCF,2020-01-01,TX,2020Q1,January
+2020,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),22824.0,MMCF,2020-02-01,TX,2020Q1,February
+2020,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2020-02-01,TX,2020Q1,February
+2020,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),125705.0,MMCF,2020-02-01,TX,2020Q1,February
+2020,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),336812.0,MMCF,2020-02-01,TX,2020Q1,February
+2020,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),153438.0,MMCF,2020-02-01,TX,2020Q1,February
+2020,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),34757.0,MMCF,2020-02-01,TX,2020Q1,February
+2020,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),94.0,MMCF,2020-03-01,TX,2020Q1,March
+2020,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),18955.0,MMCF,2020-03-01,TX,2020Q1,March
+2020,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),124746.0,MMCF,2020-03-01,TX,2020Q1,March
+2020,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),158884.0,MMCF,2020-03-01,TX,2020Q1,March
+2020,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),318743.0,MMCF,2020-03-01,TX,2020Q1,March
+2020,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),16064.0,MMCF,2020-03-01,TX,2020Q1,March
+2020,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),91.0,MMCF,2020-04-01,TX,2020Q2,April
+2020,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),145624.0,MMCF,2020-04-01,TX,2020Q2,April
+2020,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),10670.0,MMCF,2020-04-01,TX,2020Q2,April
+2020,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),114512.0,MMCF,2020-04-01,TX,2020Q2,April
+2020,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12388.0,MMCF,2020-04-01,TX,2020Q2,April
+2020,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),283285.0,MMCF,2020-04-01,TX,2020Q2,April
+2020,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),9685.0,MMCF,2020-05-01,TX,2020Q2,May
+2020,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),304441.0,MMCF,2020-05-01,TX,2020Q2,May
+2020,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),147428.0,MMCF,2020-05-01,TX,2020Q2,May
+2020,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),8428.0,MMCF,2020-05-01,TX,2020Q2,May
+2020,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),94.0,MMCF,2020-05-01,TX,2020Q2,May
+2020,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),138805.0,MMCF,2020-05-01,TX,2020Q2,May
+2020,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),7969.0,MMCF,2020-06-01,TX,2020Q2,June
+2020,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),323642.0,MMCF,2020-06-01,TX,2020Q2,June
+2020,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),91.0,MMCF,2020-06-01,TX,2020Q2,June
+2020,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7096.0,MMCF,2020-06-01,TX,2020Q2,June
+2020,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),167442.0,MMCF,2020-06-01,TX,2020Q2,June
+2020,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),141044.0,MMCF,2020-06-01,TX,2020Q2,June
+2020,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),153055.0,MMCF,2020-07-01,TX,2020Q3,July
+2020,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),212107.0,MMCF,2020-07-01,TX,2020Q3,July
+2020,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),382868.0,MMCF,2020-07-01,TX,2020Q3,July
+2020,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10520.0,MMCF,2020-07-01,TX,2020Q3,July
+2020,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),94.0,MMCF,2020-07-01,TX,2020Q3,July
+2020,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7092.0,MMCF,2020-07-01,TX,2020Q3,July
+2020,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),208324.0,MMCF,2020-08-01,TX,2020Q3,August
+2020,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),153600.0,MMCF,2020-08-01,TX,2020Q3,August
+2020,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10000.0,MMCF,2020-08-01,TX,2020Q3,August
+2020,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),378367.0,MMCF,2020-08-01,TX,2020Q3,August
+2020,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),94.0,MMCF,2020-08-01,TX,2020Q3,August
+2020,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6348.0,MMCF,2020-08-01,TX,2020Q3,August
+2020,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),91.0,MMCF,2020-09-01,TX,2020Q3,September
+2020,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),149727.0,MMCF,2020-09-01,TX,2020Q3,September
+2020,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),159518.0,MMCF,2020-09-01,TX,2020Q3,September
+2020,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),326393.0,MMCF,2020-09-01,TX,2020Q3,September
+2020,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6539.0,MMCF,2020-09-01,TX,2020Q3,September
+2020,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10518.0,MMCF,2020-09-01,TX,2020Q3,September
+2020,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),323706.0,MMCF,2020-10-01,TX,2020Q4,October
+2020,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),9278.0,MMCF,2020-10-01,TX,2020Q4,October
+2020,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12979.0,MMCF,2020-10-01,TX,2020Q4,October
+2020,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),159976.0,MMCF,2020-10-01,TX,2020Q4,October
+2020,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),141379.0,MMCF,2020-10-01,TX,2020Q4,October
+2020,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),94.0,MMCF,2020-10-01,TX,2020Q4,October
+2020,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163179.0,MMCF,2020-11-01,TX,2020Q4,November
+2020,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),16407.0,MMCF,2020-11-01,TX,2020Q4,November
+2020,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),299797.0,MMCF,2020-11-01,TX,2020Q4,November
+2020,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),91.0,MMCF,2020-11-01,TX,2020Q4,November
+2020,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),106204.0,MMCF,2020-11-01,TX,2020Q4,November
+2020,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),13916.0,MMCF,2020-11-01,TX,2020Q4,November
+2020,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),94.0,MMCF,2020-12-01,TX,2020Q4,December
+2020,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),110236.0,MMCF,2020-12-01,TX,2020Q4,December
+2020,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),40248.0,MMCF,2020-12-01,TX,2020Q4,December
+2020,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),22367.0,MMCF,2020-12-01,TX,2020Q4,December
+2020,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),176212.0,MMCF,2020-12-01,TX,2020Q4,December
+2020,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),349158.0,MMCF,2020-12-01,TX,2020Q4,December
+2021,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),113820.0,MMCF,2021-01-01,TX,2021Q1,January
+2021,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),80.0,MMCF,2021-01-01,TX,2021Q1,January
+2021,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),24638.0,MMCF,2021-01-01,TX,2021Q1,January
+2021,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),361903.0,MMCF,2021-01-01,TX,2021Q1,January
+2021,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),178191.0,MMCF,2021-01-01,TX,2021Q1,January
+2021,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),45173.0,MMCF,2021-01-01,TX,2021Q1,January
+2021,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),25894.0,MMCF,2021-02-01,TX,2021Q1,February
+2021,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),335215.0,MMCF,2021-02-01,TX,2021Q1,February
+2021,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),50386.0,MMCF,2021-02-01,TX,2021Q1,February
+2021,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),125874.0,MMCF,2021-02-01,TX,2021Q1,February
+2021,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),72.0,MMCF,2021-02-01,TX,2021Q1,February
+2021,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),132988.0,MMCF,2021-02-01,TX,2021Q1,February
+2021,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),89081.0,MMCF,2021-03-01,TX,2021Q1,March
+2021,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),16980.0,MMCF,2021-03-01,TX,2021Q1,March
+2021,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),26389.0,MMCF,2021-03-01,TX,2021Q1,March
+2021,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),282860.0,MMCF,2021-03-01,TX,2021Q1,March
+2021,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),150331.0,MMCF,2021-03-01,TX,2021Q1,March
+2021,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),80.0,MMCF,2021-03-01,TX,2021Q1,March
+2021,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),14233.0,MMCF,2021-04-01,TX,2021Q2,April
+2021,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),77.0,MMCF,2021-04-01,TX,2021Q2,April
+2021,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),112387.0,MMCF,2021-04-01,TX,2021Q2,April
+2021,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),297643.0,MMCF,2021-04-01,TX,2021Q2,April
+2021,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),158615.0,MMCF,2021-04-01,TX,2021Q2,April
+2021,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),12331.0,MMCF,2021-04-01,TX,2021Q2,April
+2021,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),80.0,MMCF,2021-05-01,TX,2021Q2,May
+2021,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),119157.0,MMCF,2021-05-01,TX,2021Q2,May
+2021,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),8778.0,MMCF,2021-05-01,TX,2021Q2,May
+2021,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),301182.0,MMCF,2021-05-01,TX,2021Q2,May
+2021,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10890.0,MMCF,2021-05-01,TX,2021Q2,May
+2021,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),162278.0,MMCF,2021-05-01,TX,2021Q2,May
+2021,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),172535.0,MMCF,2021-06-01,TX,2021Q2,June
+2021,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),158888.0,MMCF,2021-06-01,TX,2021Q2,June
+2021,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6897.0,MMCF,2021-06-01,TX,2021Q2,June
+2021,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),77.0,MMCF,2021-06-01,TX,2021Q2,June
+2021,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),349278.0,MMCF,2021-06-01,TX,2021Q2,June
+2021,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),10881.0,MMCF,2021-06-01,TX,2021Q2,June
+2021,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),168108.0,MMCF,2021-07-01,TX,2021Q3,July
+2021,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11506.0,MMCF,2021-07-01,TX,2021Q3,July
+2021,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),80.0,MMCF,2021-07-01,TX,2021Q3,July
+2021,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),379649.0,MMCF,2021-07-01,TX,2021Q3,July
+2021,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6673.0,MMCF,2021-07-01,TX,2021Q3,July
+2021,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),193281.0,MMCF,2021-07-01,TX,2021Q3,July
+2021,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6182.0,MMCF,2021-08-01,TX,2021Q3,August
+2021,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),382962.0,MMCF,2021-08-01,TX,2021Q3,August
+2021,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11347.0,MMCF,2021-08-01,TX,2021Q3,August
+2021,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),196140.0,MMCF,2021-08-01,TX,2021Q3,August
+2021,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),169214.0,MMCF,2021-08-01,TX,2021Q3,August
+2021,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),80.0,MMCF,2021-08-01,TX,2021Q3,August
+2021,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),77.0,MMCF,2021-09-01,TX,2021Q3,September
+2021,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),341704.0,MMCF,2021-09-01,TX,2021Q3,September
+2021,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),165542.0,MMCF,2021-09-01,TX,2021Q3,September
+2021,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),158960.0,MMCF,2021-09-01,TX,2021Q3,September
+2021,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11117.0,MMCF,2021-09-01,TX,2021Q3,September
+2021,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6008.0,MMCF,2021-09-01,TX,2021Q3,September
+2021,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12008.0,MMCF,2021-10-01,TX,2021Q4,October
+2021,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),319987.0,MMCF,2021-10-01,TX,2021Q4,October
+2021,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),80.0,MMCF,2021-10-01,TX,2021Q4,October
+2021,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163143.0,MMCF,2021-10-01,TX,2021Q4,October
+2021,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7965.0,MMCF,2021-10-01,TX,2021Q4,October
+2021,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),136791.0,MMCF,2021-10-01,TX,2021Q4,October
+2021,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),77.0,MMCF,2021-11-01,TX,2021Q4,November
+2021,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),103728.0,MMCF,2021-11-01,TX,2021Q4,November
+2021,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),16153.0,MMCF,2021-11-01,TX,2021Q4,November
+2021,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),304836.0,MMCF,2021-11-01,TX,2021Q4,November
+2021,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),15388.0,MMCF,2021-11-01,TX,2021Q4,November
+2021,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),169491.0,MMCF,2021-11-01,TX,2021Q4,November
+2021,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),179283.0,MMCF,2021-12-01,TX,2021Q4,December
+2021,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),18264.0,MMCF,2021-12-01,TX,2021Q4,December
+2021,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),16495.0,MMCF,2021-12-01,TX,2021Q4,December
+2021,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),318849.0,MMCF,2021-12-01,TX,2021Q4,December
+2021,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),104727.0,MMCF,2021-12-01,TX,2021Q4,December
+2021,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),80.0,MMCF,2021-12-01,TX,2021Q4,December
+2022,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),108.0,MMCF,2022-01-01,TX,2022Q1,January
+2022,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),173563.0,MMCF,2022-01-01,TX,2022Q1,January
+2022,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),23240.0,MMCF,2022-01-01,TX,2022Q1,January
+2022,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),40561.0,MMCF,2022-01-01,TX,2022Q1,January
+2022,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),129750.0,MMCF,2022-01-01,TX,2022Q1,January
+2022,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),367222.0,MMCF,2022-01-01,TX,2022Q1,January
+2022,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),98.0,MMCF,2022-02-01,TX,2022Q1,February
+2022,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),154704.0,MMCF,2022-02-01,TX,2022Q1,February
+2022,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),342736.0,MMCF,2022-02-01,TX,2022Q1,February
+2022,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),116909.0,MMCF,2022-02-01,TX,2022Q1,February
+2022,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),24960.0,MMCF,2022-02-01,TX,2022Q1,February
+2022,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),46065.0,MMCF,2022-02-01,TX,2022Q1,February
+2022,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),314561.0,MMCF,2022-03-01,TX,2022Q1,March
+2022,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),30838.0,MMCF,2022-03-01,TX,2022Q1,March
+2022,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),170922.0,MMCF,2022-03-01,TX,2022Q1,March
+2022,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),108.0,MMCF,2022-03-01,TX,2022Q1,March
+2022,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),92999.0,MMCF,2022-03-01,TX,2022Q1,March
+2022,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),19694.0,MMCF,2022-03-01,TX,2022Q1,March
+2022,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),99596.0,MMCF,2022-04-01,TX,2022Q2,April
+2022,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),105.0,MMCF,2022-04-01,TX,2022Q2,April
+2022,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),13631.0,MMCF,2022-04-01,TX,2022Q2,April
+2022,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),290740.0,MMCF,2022-04-01,TX,2022Q2,April
+2022,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163742.0,MMCF,2022-04-01,TX,2022Q2,April
+2022,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),13667.0,MMCF,2022-04-01,TX,2022Q2,April
+2022,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),151154.0,MMCF,2022-05-01,TX,2022Q2,May
+2022,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),334396.0,MMCF,2022-05-01,TX,2022Q2,May
+2022,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12145.0,MMCF,2022-05-01,TX,2022Q2,May
+2022,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163683.0,MMCF,2022-05-01,TX,2022Q2,May
+2022,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7306.0,MMCF,2022-05-01,TX,2022Q2,May
+2022,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),108.0,MMCF,2022-05-01,TX,2022Q2,May
+2022,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6237.0,MMCF,2022-06-01,TX,2022Q2,June
+2022,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),105.0,MMCF,2022-06-01,TX,2022Q2,June
+2022,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11312.0,MMCF,2022-06-01,TX,2022Q2,June
+2022,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),162047.0,MMCF,2022-06-01,TX,2022Q2,June
+2022,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),184017.0,MMCF,2022-06-01,TX,2022Q2,June
+2022,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),363717.0,MMCF,2022-06-01,TX,2022Q2,June
+2022,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),165915.0,MMCF,2022-07-01,TX,2022Q3,July
+2022,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),108.0,MMCF,2022-07-01,TX,2022Q3,July
+2022,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11817.0,MMCF,2022-07-01,TX,2022Q3,July
+2022,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),219242.0,MMCF,2022-07-01,TX,2022Q3,July
+2022,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),403215.0,MMCF,2022-07-01,TX,2022Q3,July
+2022,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6132.0,MMCF,2022-07-01,TX,2022Q3,July
+2022,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),215090.0,MMCF,2022-08-01,TX,2022Q3,August
+2022,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11256.0,MMCF,2022-08-01,TX,2022Q3,August
+2022,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5362.0,MMCF,2022-08-01,TX,2022Q3,August
+2022,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),108.0,MMCF,2022-08-01,TX,2022Q3,August
+2022,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),164532.0,MMCF,2022-08-01,TX,2022Q3,August
+2022,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),396349.0,MMCF,2022-08-01,TX,2022Q3,August
+2022,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),350782.0,MMCF,2022-09-01,TX,2022Q3,September
+2022,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11271.0,MMCF,2022-09-01,TX,2022Q3,September
+2022,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),105.0,MMCF,2022-09-01,TX,2022Q3,September
+2022,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),178998.0,MMCF,2022-09-01,TX,2022Q3,September
+2022,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),154745.0,MMCF,2022-09-01,TX,2022Q3,September
+2022,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5664.0,MMCF,2022-09-01,TX,2022Q3,September
+2022,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),138409.0,MMCF,2022-10-01,TX,2022Q4,October
+2022,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),324427.0,MMCF,2022-10-01,TX,2022Q4,October
+2022,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),108.0,MMCF,2022-10-01,TX,2022Q4,October
+2022,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163306.0,MMCF,2022-10-01,TX,2022Q4,October
+2022,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),13437.0,MMCF,2022-10-01,TX,2022Q4,October
+2022,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),9166.0,MMCF,2022-10-01,TX,2022Q4,October
+2022,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),128524.0,MMCF,2022-11-01,TX,2022Q4,November
+2022,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),20977.0,MMCF,2022-11-01,TX,2022Q4,November
+2022,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163860.0,MMCF,2022-11-01,TX,2022Q4,November
+2022,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),338953.0,MMCF,2022-11-01,TX,2022Q4,November
+2022,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),105.0,MMCF,2022-11-01,TX,2022Q4,November
+2022,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),25487.0,MMCF,2022-11-01,TX,2022Q4,November
+2022,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),22907.0,MMCF,2022-12-01,TX,2022Q4,December
+2022,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),108.0,MMCF,2022-12-01,TX,2022Q4,December
+2022,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),142708.0,MMCF,2022-12-01,TX,2022Q4,December
+2022,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),161975.0,MMCF,2022-12-01,TX,2022Q4,December
+2022,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),363898.0,MMCF,2022-12-01,TX,2022Q4,December
+2022,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),36200.0,MMCF,2022-12-01,TX,2022Q4,December
+2023,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),169209.0,MMCF,2023-01-01,TX,2023Q1,January
+2023,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),37087.0,MMCF,2023-01-01,TX,2023Q1,January
+2023,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),358178.0,MMCF,2023-01-01,TX,2023Q1,January
+2023,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2023-01-01,TX,2023Q1,January
+2023,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),128633.0,MMCF,2023-01-01,TX,2023Q1,January
+2023,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),23160.0,MMCF,2023-01-01,TX,2023Q1,January
+2023,2,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),121082.0,MMCF,2023-02-01,TX,2023Q1,February
+2023,2,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),22026.0,MMCF,2023-02-01,TX,2023Q1,February
+2023,2,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),153092.0,MMCF,2023-02-01,TX,2023Q1,February
+2023,2,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),80.0,MMCF,2023-02-01,TX,2023Q1,February
+2023,2,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),330939.0,MMCF,2023-02-01,TX,2023Q1,February
+2023,2,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),34659.0,MMCF,2023-02-01,TX,2023Q1,February
+2023,3,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),121832.0,MMCF,2023-03-01,TX,2023Q1,March
+2023,3,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),327663.0,MMCF,2023-03-01,TX,2023Q1,March
+2023,3,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),18756.0,MMCF,2023-03-01,TX,2023Q1,March
+2023,3,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),165691.0,MMCF,2023-03-01,TX,2023Q1,March
+2023,3,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),21296.0,MMCF,2023-03-01,TX,2023Q1,March
+2023,3,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2023-03-01,TX,2023Q1,March
+2023,4,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),118945.0,MMCF,2023-04-01,TX,2023Q2,April
+2023,4,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),11915.0,MMCF,2023-04-01,TX,2023Q2,April
+2023,4,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),306560.0,MMCF,2023-04-01,TX,2023Q2,April
+2023,4,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),13222.0,MMCF,2023-04-01,TX,2023Q2,April
+2023,4,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),86.0,MMCF,2023-04-01,TX,2023Q2,April
+2023,4,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),162393.0,MMCF,2023-04-01,TX,2023Q2,April
+2023,5,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),351974.0,MMCF,2023-05-01,TX,2023Q2,May
+2023,5,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),7202.0,MMCF,2023-05-01,TX,2023Q2,May
+2023,5,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),168652.0,MMCF,2023-05-01,TX,2023Q2,May
+2023,5,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12631.0,MMCF,2023-05-01,TX,2023Q2,May
+2023,5,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2023-05-01,TX,2023Q2,May
+2023,5,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163401.0,MMCF,2023-05-01,TX,2023Q2,May
+2023,6,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6709.0,MMCF,2023-06-01,TX,2023Q2,June
+2023,6,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),86.0,MMCF,2023-06-01,TX,2023Q2,June
+2023,6,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12073.0,MMCF,2023-06-01,TX,2023Q2,June
+2023,6,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),200158.0,MMCF,2023-06-01,TX,2023Q2,June
+2023,6,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),158632.0,MMCF,2023-06-01,TX,2023Q2,June
+2023,6,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),377658.0,MMCF,2023-06-01,TX,2023Q2,June
+2023,7,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),12467.0,MMCF,2023-07-01,TX,2023Q3,July
+2023,7,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),163845.0,MMCF,2023-07-01,TX,2023Q3,July
+2023,7,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),6406.0,MMCF,2023-07-01,TX,2023Q3,July
+2023,7,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2023-07-01,TX,2023Q3,July
+2023,7,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),404623.0,MMCF,2023-07-01,TX,2023Q3,July
+2023,7,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),221816.0,MMCF,2023-07-01,TX,2023Q3,July
+2023,8,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11725.0,MMCF,2023-08-01,TX,2023Q3,August
+2023,8,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),249428.0,MMCF,2023-08-01,TX,2023Q3,August
+2023,8,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),434022.0,MMCF,2023-08-01,TX,2023Q3,August
+2023,8,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5770.0,MMCF,2023-08-01,TX,2023Q3,August
+2023,8,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2023-08-01,TX,2023Q3,August
+2023,8,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),167010.0,MMCF,2023-08-01,TX,2023Q3,August
+2023,9,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),11160.0,MMCF,2023-09-01,TX,2023Q3,September
+2023,9,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),86.0,MMCF,2023-09-01,TX,2023Q3,September
+2023,9,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),379292.0,MMCF,2023-09-01,TX,2023Q3,September
+2023,9,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),5244.0,MMCF,2023-09-01,TX,2023Q3,September
+2023,9,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),161759.0,MMCF,2023-09-01,TX,2023Q3,September
+2023,9,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),201044.0,MMCF,2023-09-01,TX,2023Q3,September
+2023,10,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),338156.0,MMCF,2023-10-01,TX,2023Q4,October
+2023,10,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),9745.0,MMCF,2023-10-01,TX,2023Q4,October
+2023,10,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),147443.0,MMCF,2023-10-01,TX,2023Q4,October
+2023,10,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),14199.0,MMCF,2023-10-01,TX,2023Q4,October
+2023,10,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2023-10-01,TX,2023Q4,October
+2023,10,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),166680.0,MMCF,2023-10-01,TX,2023Q4,October
+2023,11,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),346283.0,MMCF,2023-11-01,TX,2023Q4,November
+2023,11,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),170734.0,MMCF,2023-11-01,TX,2023Q4,November
+2023,11,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),136570.0,MMCF,2023-11-01,TX,2023Q4,November
+2023,11,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),20777.0,MMCF,2023-11-01,TX,2023Q4,November
+2023,11,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),18115.0,MMCF,2023-11-01,TX,2023Q4,November
+2023,11,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),86.0,MMCF,2023-11-01,TX,2023Q4,November
+2023,12,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),21891.0,MMCF,2023-12-01,TX,2023Q4,December
+2023,12,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),369389.0,MMCF,2023-12-01,TX,2023Q4,December
+2023,12,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),179990.0,MMCF,2023-12-01,TX,2023Q4,December
+2023,12,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),136083.0,MMCF,2023-12-01,TX,2023Q4,December
+2023,12,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2023-12-01,TX,2023Q4,December
+2023,12,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),31337.0,MMCF,2023-12-01,TX,2023Q4,December
+2024,1,STX,TEXAS,EPG0,Natural Gas,VDV,Vehicle Fuel Consumption,NA1570_STX_2,Texas Natural Gas Vehicle Fuel Consumption (MMcf),88.0,MMCF,2024-01-01,TX,2024Q1,January
+2024,1,STX,TEXAS,EPG0,Natural Gas,VGT,Delivered to Consumers,N3060TX2,Natural Gas Delivered to Consumers in Texas (Including Vehicle Fuel) (MMcf),430450.0,MMCF,2024-01-01,TX,2024Q1,January
+2024,1,STX,TEXAS,EPG0,Natural Gas,VEU,Electric Power Consumption,N3045TX2,Texas Natural Gas Deliveries to Electric Power Consumers (MMcf),169590.0,MMCF,2024-01-01,TX,2024Q1,January
+2024,1,STX,TEXAS,EPG0,Natural Gas,VCS,Commercial Consumption,N3020TX2,Natural Gas Deliveries to Commercial Consumers (Including Vehicle Fuel through 1996) in Texas (MMcf),28169.0,MMCF,2024-01-01,TX,2024Q1,January
+2024,1,STX,TEXAS,EPG0,Natural Gas,VRS,Residential Consumption,N3010TX2,Texas Natural Gas Residential Consumption (MMcf),52904.0,MMCF,2024-01-01,TX,2024Q1,January
+2024,1,STX,TEXAS,EPG0,Natural Gas,VIN,Industrial Consumption,N3035TX2,Texas Natural Gas Industrial Consumption (MMcf),179698.0,MMCF,2024-01-01,TX,2024Q1,January
